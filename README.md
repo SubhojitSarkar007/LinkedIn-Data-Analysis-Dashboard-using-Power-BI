@@ -2,13 +2,13 @@
 I have created a Dashboard while performing the analysis of my own LinkedIn profile data.
 
 Steps involved in creating the dashboard:-
-1.  Downloading my own profile Dataset( that will take approx 24 hours)
+1.  Download your own profile Dataset( that will take approx 24 hours).
 2.  Analyze all the Datasets(csv).
-3.  Select the Datasets according to my need for profile analysis. 
+3.  Select the Datasets according to your need for profile analysis. 
 4.  Data Cleaning and Data Transformation.
 5.  Some tranformation are made using sql ( snowflake ).
-6.  Upload this tranformed data into Power BI
-7.  Further new realtionships among data files are created.
+6.  Upload this tranformed data into Power BI.
+7.  Further create new realtionships among data files.
 8.  Use Power Query for further Data Transformations which will help you to build the visuals that you require for the dataset.
 9.  Compile all visuals into the dashboard.
 
